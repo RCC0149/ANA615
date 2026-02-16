@@ -20,6 +20,6 @@ The course emphasized **practical data mining workflows**, including data prepar
 * **Ensemble methods**, including bagging, boosting, and random forests
 * Cost-sensitive modeling and decision-oriented evaluation
 
-Assignments required applying these techniques using Python-based data mining tools, interpreting results, and evaluating trade-offs between accuracy, complexity, and interpretability, using Python.
+Assignments required applying these techniques using Python-based data mining tools, interpreting results, and evaluating trade-offs between accuracy, complexity, and interpretability.
 
 This repository reflects applied competency in **data mining, predictive analytics, and model evaluation**, aligned with the learning objectives of ANA 615.
